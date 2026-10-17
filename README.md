@@ -6,6 +6,8 @@ A Claude Code mod: a side panel listing every web page used in the session, grou
 - `Save .md` (or `/internet-sources-save`) writes `.cc-internet-sources/<session-id>.md`.
 - Tracks WebFetch and WebSearch only. Tokens are estimates (chars / 4).
 
+![Internet sources pane demo](demo.gif)
+
 ## Install
 
 ```
