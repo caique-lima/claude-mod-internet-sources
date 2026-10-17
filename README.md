@@ -9,7 +9,7 @@ A Claude Code mod: a side panel listing every web page used in the session, grou
 ## Install
 
 ```
-/plugin install internet-sources --marketplace <owner>/<repo>
+/plugin install internet-sources --marketplace caique-lima/claude-mod-internet-sources
 ```
 
 For local development: `claude --plugin-dir .`
