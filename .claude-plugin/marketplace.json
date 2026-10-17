@@ -1,0 +1,5 @@
+{
+  "name": "internet-sources",
+  "owner": { "name": "Caique Lima" },
+  "plugins": [{ "name": "internet-sources", "source": "./" }]
+}

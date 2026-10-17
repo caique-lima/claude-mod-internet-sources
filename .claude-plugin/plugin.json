@@ -1,0 +1,1 @@
+{ "name": "internet-sources", "version": "0.1.0", "description": "Side panel that tracks every web page Claude pulled into the session, grouped by domain, with token estimates and markdown export.", "types": "./types/index.d.ts" }
